@@ -65,3 +65,15 @@ main {
   border-left: 10px solid #8A6D37;
   border-bottom: 40px solid transparent;
 }
+@media (max-width: 768px) {
+  .list-books {
+    grid-template-columns: repeat(3,200px);
+    justify-content: space-evenly;
+  }
+}
+@media (max-width: 375px) {
+  .list-books {
+    grid-template-columns: 200px;
+    justify-content: space-evenly;
+  }
+}

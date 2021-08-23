@@ -11,7 +11,6 @@
   </style>
 </head>
 <body>
-<?php include_once("./NavBar.php")?>
   <header class="title">
     <h2>Libros destacados</h2>
     <p>No te pierdas los mejores libros de nuestra biblioteca</p>
