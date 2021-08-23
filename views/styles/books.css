@@ -29,21 +29,21 @@ main {
   height: 250px;
 }
 
-.link-detalles {
+.link-details {
   background-color: #00406E;
   text-align: center;
   border-radius: 5px;
   margin-top: 10px;
 }
 
-.link-detalles a {
+.link-details a {
   display: block;
   color: white;
   text-decoration: none;
   padding: 10px;
 }
 
-.link-detalles a:hover {
+.link-details a:hover {
   background-color: #8A6D37;
 }
 

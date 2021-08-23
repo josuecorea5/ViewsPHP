@@ -15,10 +15,9 @@
     <h2>Libros destacados</h2>
     <p>No te pierdas los mejores libros de nuestra biblioteca</p>
   </header>
-  
+
   <main>
     <section class="list-books">
-
       <article class="book-datail">
         <img src="../assets/img/cSharp.jpg" alt="Libro de ciencia">
         <p>Learning C#</p>
@@ -28,45 +27,44 @@
       <article class="book-datail">
         <img src="../assets/img/cleanCode.jpg" alt="Libro de base de datos">
         <p>Clean Code</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
 
       <article class="book-datail">
         <img src="../assets/img/html.jpg" alt="Libro de Python">
         <p>Guía HTML & CSS</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
 
       <article class="book-datail">
         <img src="../assets/img/cleanCode.jpg" alt="Libro de base de datos">
         <p>Clean Code</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
 
       <article class="book-datail">
         <img src="../assets/img/cSharp.jpg" alt="Libro de ciencia">
         <p>Learning C#</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
 
       <article class="book-datail">
         <img src="../assets/img/cSharp.jpg" alt="Libro de ciencia">
         <p>Learning C#</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
 
       <article class="book-datail">
         <img src="../assets/img/cleanCode.jpg" alt="Libro de base de datos">
         <p>Clean Code</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
 
       <article class="book-datail">
         <img src="../assets/img/html.jpg" alt="Libro de Python">
         <p>Guía HTML & CSS</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
-
     </section>
   </main>
 </body>

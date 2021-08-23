@@ -20,57 +20,56 @@
         <span class="sede">Cuidad Universiaria</span>
         <img src="../assets/img/cSharp.jpg" alt="Libro de ciencia">
         <p>Learning C#</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
 
       <article class="book-datail">
-      <span class="sede">Cuidad Universiaria</span>
+        <span class="sede">Cuidad Universiaria</span>
         <img src="../assets/img/cleanCode.jpg" alt="Libro de base de datos">
         <p>Clean Code</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
 
       <article class="book-datail">
-      <span class="sede">Sede Central</span>
+        <span class="sede">Sede Central</span>
         <img src="../assets/img/html.jpg" alt="Libro de Python">
         <p>Guía HTML & CSS</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
 
       <article class="book-datail">
-      <span class="sede">Sede Central</span>
+        <span class="sede">Sede Central</span>
         <img src="../assets/img/cleanCode.jpg" alt="Libro de base de datos">
         <p>Clean Code</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
 
       <article class="book-datail">
         <span class="sede">Cuidad Universiaria</span>
         <img src="../assets/img/cSharp.jpg" alt="Libro de ciencia">
         <p>Learning C#</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
 
       <article class="book-datail">
-      <span class="sede">Cuidad Universiaria</span>
+        <span class="sede">Cuidad Universiaria</span>
         <img src="../assets/img/cleanCode.jpg" alt="Libro de base de datos">
         <p>Clean Code</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
 
       <article class="book-datail">
-      <span class="sede">Sede Central</span>
+        <span class="sede">Sede Central</span>
         <img src="../assets/img/html.jpg" alt="Libro de Python">
         <p>Guía HTML & CSS</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
 
       <article class="book-datail">
-      <span class="sede">Sede Central</span>
+        <span class="sede">Sede Central</span>
         <img src="../assets/img/cleanCode.jpg" alt="Libro de base de datos">
         <p>Clean Code</p>
-        <div class="link-detalles"><a href="">Ver detalles</a></div>
+        <div class="link-details"><a href="">Ver detalles</a></div>
       </article>
-
 </body>
 </html>

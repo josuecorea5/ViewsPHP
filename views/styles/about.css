@@ -38,8 +38,6 @@ body {
   text-decoration: none;
 }
 
-
-
 @media (max-width: 375px) {
   .menu {
     padding: 0;
